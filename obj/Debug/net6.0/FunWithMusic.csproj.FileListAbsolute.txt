@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\FunWithMusic\bin\Debug\net6.0\FunWithMusic.exe
+C:\Users\jacob\source\repos\FunWithMusic\bin\Debug\net6.0\FunWithMusic.deps.json
+C:\Users\jacob\source\repos\FunWithMusic\bin\Debug\net6.0\FunWithMusic.runtimeconfig.json
+C:\Users\jacob\source\repos\FunWithMusic\bin\Debug\net6.0\FunWithMusic.dll
+C:\Users\jacob\source\repos\FunWithMusic\bin\Debug\net6.0\FunWithMusic.pdb
+C:\Users\jacob\source\repos\FunWithMusic\obj\Debug\net6.0\FunWithMusic.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\FunWithMusic\obj\Debug\net6.0\FunWithMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\FunWithMusic\obj\Debug\net6.0\FunWithMusic.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\FunWithMusic\obj\Debug\net6.0\FunWithMusic.AssemblyInfo.cs
+C:\Users\jacob\source\repos\FunWithMusic\obj\Debug\net6.0\FunWithMusic.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\FunWithMusic\obj\Debug\net6.0\FunWithMusic.dll
+C:\Users\jacob\source\repos\FunWithMusic\obj\Debug\net6.0\refint\FunWithMusic.dll
+C:\Users\jacob\source\repos\FunWithMusic\obj\Debug\net6.0\FunWithMusic.pdb
+C:\Users\jacob\source\repos\FunWithMusic\obj\Debug\net6.0\FunWithMusic.genruntimeconfig.cache
+C:\Users\jacob\source\repos\FunWithMusic\obj\Debug\net6.0\ref\FunWithMusic.dll
